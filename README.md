@@ -13,7 +13,7 @@ Setup:
 9. Open the json file and copy the `client_email`.
 10. Create a google spreadsheet at `https://docs.google.com/spreadsheets` (Skip this if you already have a google spreadsheet)
 11. On your spreadsheet, share it to the `client_email`
-12. Open spreadsheet.py and change `gglspreadsheet = 'To-do list'` to `gglspreadsheet = 'your_google_spreadsheet_name'` 
+12. Open spreadsheet.py and change `gglspreadsheet = 'To-do list'` to `gglspreadsheet = 'your_google_spreadsheet_name'` and change `jsonFile = 'Todo.json'` to `jsonFile = 'name_of_json_file_you_downloaded.json'`
 13. Open terminal and run `python spreadsheet.py`
 
 
