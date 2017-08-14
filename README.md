@@ -1,5 +1,7 @@
 # Access Google Spreadsheet from terminal
 
+> Uses gspread and oauth2client libraries
+
 Setup:
 
 1. Clone the repo.
